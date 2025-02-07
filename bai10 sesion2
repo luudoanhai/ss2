@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <table border="1" cellpadding="7">
+    <table border="1" cellpadding="10" cellspacing="0">
         <caption>QUẢN LÝ SINH VIÊN</caption>
         <thead>
             <tr>
